@@ -11,7 +11,7 @@ The core analytical workflow:
 
 * 03_SHAP_interpretability_analysis: Multi-model SHapley Additive exPlanations (SHAP) analysis quantifying the relative importance and partial dependence patterns of the 36 environmental predictors for headwater DIC concentration.
 
-* 04_gridded_simulation_and_WCS_uncertainty: CMIP6 delta-change bias correction, 1-km national gridded simulations of headwater DIC concentration and runoff-coupled land-to-river DIC flux, process-based partitioning of weathering-derived carbon sink (WCS) using GLiM lithology-specific kinetics, and ±1σ sensitivity and 10,000-iteration Monte Carlo uncertainty propagation.
+* 04_gridded_simulation_and_calculation: CMIP6 delta-change bias correction, 1-km national gridded simulations of headwater DIC concentration and runoff-coupled land-to-river DIC flux, process-based partitioning of weathering-derived carbon sink (WCS) using GLiM lithology-specific kinetics.
 
 * 05_factorial_attribution_experiments: Factorial simulation experiments quantifying the relative contributions of climate, hydrology, soil properties, and vegetation dynamics to projected future changes in national WCS.
 
