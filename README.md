@@ -13,7 +13,7 @@ The core analytical workflow:
 
 * 04_gridded_simulation_and_calculation: CMIP6 delta-change bias correction, 1-km national gridded simulations of headwater DIC concentration and runoff-coupled land-to-river DIC flux, process-based partitioning of weathering-derived carbon sink (WCS) using GLiM lithology-specific kinetics.
 
-* 05_factorial_attribution_experiments: Factorial simulation experiments quantifying the relative contributions of climate, hydrology, soil properties, and vegetation dynamics to projected future changes in national WCS.
+* 05_future_projection_and_factorial_attribution_experiments: Factorial simulation experiments quantifying the relative contributions of climate, hydrology, soil properties, and vegetation dynamics to projected future changes in national WCS.
 
 System Requirements & Dependencies:
 * Python ≥ 3.9
